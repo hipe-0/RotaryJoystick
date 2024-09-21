@@ -14,6 +14,7 @@ Video demo here : [xybots_demo_using_rotary_joystick.mp4](https://github.com/hip
 Code : in this repository
 
 Shematics : to be added later (I need to create sorry)
+![2024-09-21 Rotary joystick electric diagram_bb](https://github.com/user-attachments/assets/462c1874-a9f6-408e-ab0b-86c94e3b80d1)
 
 # Bill of materials
 
