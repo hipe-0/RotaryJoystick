@@ -1,5 +1,8 @@
 # RotaryJoystick
-This arduino-based DIY game controler has a special twisting joystick with 12 increments. This is especially useful for playing a handful of retro-games of the 90's 
+This arduino-based DIY game controler has a special twisting joystick with 12 increments. This is especially useful for playing a handful of retro-games of the 90's. I personaly remember.
+- XYBOTS  https://en.wikipedia.org/wiki/Xybots
+- Ikari warrior https://en.wikipedia.org/wiki/Ikari_Warriors
+- time soldiers https://en.wikipedia.org/wiki/Time_Soldiers
 
 3D models to be found on Thingiverse here
 https://www.thingiverse.com/thing:6773750
