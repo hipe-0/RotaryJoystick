@@ -4,6 +4,11 @@ This arduino-based DIY game controler has a special twisting joystick with 12 in
 - Ikari warrior https://en.wikipedia.org/wiki/Ikari_Warriors
 - time soldiers https://en.wikipedia.org/wiki/Time_Soldiers
 
+
+
+https://github.com/user-attachments/assets/40a15bb0-9314-4c02-8181-8543abbdb70c
+
+
 3D models to be found on Thingiverse here
 https://www.thingiverse.com/thing:6773750
 
