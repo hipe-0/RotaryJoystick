@@ -17,6 +17,9 @@ Shematics :
 ![2024-09-22 Rotary joystick electric diagram v1 01_bb](https://github.com/user-attachments/assets/eee5e9a2-cd70-4e86-9e9b-91b760cfec10)
 ![2024-09-22 Rotary joystick electric diagram v1 01_schéma](https://github.com/user-attachments/assets/276fe4b8-f0bd-45a6-ac37-1a3506ffe956)
 
+New, untested yet, you can try this prototype PCB (Fritzing source file in repository):
+![2024-09-22 Rotary joystick electric diagram v1 01_circuit imprimé](https://github.com/user-attachments/assets/6c2c55e7-4d0b-4a60-bbdc-047d883a5df2)
+
 # Bill of materials
 
 - 1x Arduino micro
